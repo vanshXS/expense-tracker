@@ -2,12 +2,35 @@
 Full Stack Expense Tracker - React + Spring Boot + MySQL
 
 
-## 🔧 Tech Stack
+## 🚀 Features
 
-- **Frontend:** React (Vite), Tailwind CSS
-- **Backend:** Spring Boot, Spring Security, JWT Auth
-- **Database:** MySQL
-- **Other:** Axios, ModelMapper, JPA, REST API
+- ✅ Secure login and signup (JWT-based)
+- ✅ Add, edit, delete transactions
+- ✅ Filter by title, type (Income/Expense), category, and date
+- ✅ Fully responsive UI (mobile/desktop)
+- ✅ Protected routes (JWT stored in localStorage)
+- ✅ Toast notifications & modals
+- ✅ Uses Spring Security + JPA + MySQL + ModelMapper
+
+## 🧰 Tech Stack
+
+### Frontend
+
+- **React.js**
+- **Tailwind CSS**
+- Axios
+- React Icons
+- LocalStorage (for JWT)
+
+### Backend
+
+- **Spring Boot 3**
+- **Spring Security + JWT**
+- Spring Data JPA
+- ModelMapper
+- MySQL
+
+
 
 ## 🧩 Features
 
@@ -48,4 +71,5 @@ SCREENSHOTS (Preview of project)
 
 <img width="1856" height="913" alt="Screenshot 2025-08-03 225625" src="https://github.com/user-attachments/assets/f1bf9f37-6f96-4086-bf8f-b0cc8476d9f3" />
 
-
+🙌 Author
+Built with ❤️ by Vansh Salgotra
