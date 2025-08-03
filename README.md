@@ -36,13 +36,11 @@ cd backend
 Set MySQL DB credentials in application.properties.
 
 Frontend (React)
-bash
-Copy
-Edit
+
 cd frontend
 npm install
 npm run dev
-
+```
 SCREENSHOTS (Preview of project)
 <img width="1912" height="973" alt="Screenshot 2025-08-03 225538" src="https://github.com/user-attachments/assets/8f6775fe-e63f-4fdb-ae2e-a3605d2dd8ca" />
 
