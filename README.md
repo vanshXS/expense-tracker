@@ -71,5 +71,5 @@ SCREENSHOTS (Preview of project)
 
 <img width="1856" height="913" alt="Screenshot 2025-08-03 225625" src="https://github.com/user-attachments/assets/f1bf9f37-6f96-4086-bf8f-b0cc8476d9f3" />
 
-🙌 Author
-Built with ❤️ by Vansh Salgotra
+
+Developed by Vansh Salgotra
